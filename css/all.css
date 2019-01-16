@@ -1,0 +1,13 @@
+.box{
+  width: 396px;
+  height: 391px;
+  background: url('../img/logo.jpg');
+}
+
+
+
+.box2{
+  width: 396px;
+  height: 391px;
+  background: url('/img/logo.jpg');
+}
